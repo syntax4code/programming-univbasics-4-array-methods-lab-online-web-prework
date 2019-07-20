@@ -9,11 +9,12 @@ shopping_list.sort
 end
 
 def using_reverse(array)
-  
+  ["bread","milk","eggs","steak"]
 shopping_list.reverse
 end
 
 def using_first(array)
+  
 shopping_list.first
 end
 
