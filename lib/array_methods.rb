@@ -4,11 +4,12 @@ shopping_list.include?("bread")
 end
 
 def using_sort(array)
-  
+  ["bread","milk","eggs","steak"]
 shopping_list.sort
 end
 
 def using_reverse(array)
+  
 shopping_list.reverse
 end
 
