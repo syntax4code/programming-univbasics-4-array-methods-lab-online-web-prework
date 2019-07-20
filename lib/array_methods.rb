@@ -24,6 +24,6 @@ shopping_list.last
 end
 
 def using_size(array)
-  
+  ["bread","milk","eggs","steak"]
 shopping_list.size
 end
