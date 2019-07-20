@@ -1,6 +1,6 @@
 def using_include(array, element)
 shopping_list = ["bread","milk","eggs","steak"]
-shopping_list.include?("bread")
+shopping_list.include?("fish")
 end
 
 def using_sort(array)
