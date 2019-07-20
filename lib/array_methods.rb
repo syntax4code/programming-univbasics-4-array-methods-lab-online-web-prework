@@ -1,5 +1,5 @@
 def using_include(array, element)
-shopping_list = ["bread","milk","eggs","steak"]
+["bread","milk","eggs","steak"]shopping_list = 
 shopping_list.include?("bread")
 end
 
