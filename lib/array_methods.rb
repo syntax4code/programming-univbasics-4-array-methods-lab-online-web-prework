@@ -14,11 +14,12 @@ shopping_list.reverse
 end
 
 def using_first(array)
-  
+  ["bread","milk","eggs","steak"]
 shopping_list.first
 end
 
 def using_last(array)
+  
 shopping_list.last
 end
 
