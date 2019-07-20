@@ -4,7 +4,7 @@ shopping_list.include?("fish")
 end
 
 def using_sort(array)
-
+shopping_list.sort
 end
 
 def using_reverse(array)
