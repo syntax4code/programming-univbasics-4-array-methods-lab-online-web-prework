@@ -19,10 +19,11 @@ shopping_list.first
 end
 
 def using_last(array)
-  
+  ["bread","milk","eggs","steak"]
 shopping_list.last
 end
 
 def using_size(array)
+  
 shopping_list.size
 end
